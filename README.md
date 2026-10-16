@@ -1,31 +1,17 @@
-# C++ Programming Practice
+# Object-Oriented Programming in C++
 
-A collection of C++ programs and practice exercises developed while learning and strengthening C++ programming concepts.
+This section contains C++ programs demonstrating fundamental
+Object-Oriented Programming concepts.
 
-## Topics Covered
+## Topics
 
-- C++ Fundamentals
-- Variables & Data Types
-- Operators
-- Control Statements
-- Loops
-- Functions
-- Function Overloading
-- Object-Oriented Programming
-- Classes & Objects
-- Constructors & Destructors
-- Inheritance
-- Polymorphism
-- Encapsulation
-- Abstraction
+1. Class and Object
+2. Constructor
+3. Encapsulation
+4. Inheritance
+5. Polymorphism
+6. Abstraction
+7. Exception Handling
 
-## Repository Structure
-
-```text
-CPP-Programming-Practice/
-│
-├── 01-Basics/
-├── 02-OOPs/
-├── 03-Function-Overloading/
-├── C++-Docs/
-└── README.md
+These programs are part of my C++ programming learning journey
+and focus on understanding OOP concepts through practical implementation.
